@@ -1,5 +1,5 @@
 [![Build Status](https://img.shields.io/travis/iniciando-com-testes-javascript-usando-jasmine/master.svg)](https://travis-ci.org/iniciando-com-testes-javascript-usando-jasmine "Travis CI")
-[![Code Climate](https://codeclimate.com/github/iniciando-com-testes-javascript-usando-jasmine.png)](https://codeclimate.com/github/iniciando-com-testes-javascript-usando-jasmine "Code Climate")
+[![Code Climate](https://codeclimate.com/github/wbotelhos/iniciando-com-testes-javascript-usando-jasmine.png)](https://codeclimate.com/github/wbotelhos/iniciando-com-testes-javascript-usando-jasmine "Code Climate")
 [![Support wbotelhos.com](http://img.shields.io/gittip/wbotelhos.svg)](https://www.gittip.com/wbotelhos "Git Tip")
 
 ## Contributors

@@ -1,0 +1,7 @@
+*.sw[pon]
+*~
+.bundle
+.DS_Store
+.sqlite3
+log/*
+tmp

@@ -4,7 +4,7 @@
 
 ## Contributors
 
-[Check it out](http://github.com/iniciando-com-testes-javascript-usando-jasmine/graphs/contributors)
+[Check it out](http://github.com/wbotelhos/iniciando-com-testes-javascript-usando-jasmine/graphs/contributors)
 
 ## Licence
 
